@@ -27,9 +27,15 @@ Nombre del libro, Autor del Libro, Clasificación de los usuarios de Amazon, Nú
   
 **2) Predecir – Modelo de Machine Learning**
 • Todos los datos deben ser numéricos para entrenar y probar la red
+
 • La salida es determinar cuál es el autor de un libro
+
 • Dividir las características de entrada y de destino
+
 • Codificar de las etiquetas
+
 • Dividir datos de entrenamiento y prueba
+
 • Entrenar el modelo y encontrar su precisión >= 85,6
+
 • Predecir
