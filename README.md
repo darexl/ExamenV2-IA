@@ -13,9 +13,9 @@ escritas sobre Amazon, Precio del libro (Al 13/10/2020), El año(s) en que se cl
 Es de ficción o no ficción
 Actividad
 1) Análisis exploratorio de datos
-a. Explorar la tendencia a lo largo del año para cada género:
-a.1 Número de libros más vendidos en cada género cada año:
-a.2 Precio promedio, reseñas y calificación de los usuarios a lo largo del año por género
+- a. Explorar la tendencia a lo largo del año para cada género:
+  - a.1 Número de libros más vendidos en cada género cada año:
+  - a.2 Precio promedio, reseñas y calificación de los usuarios a lo largo del año por género
 b. Analizar las variables por autor
 b.1 Construir la tabla de autores
 b.2 Definir función para contar el número de libros que un autor tiene en la lista de best-sellers:
